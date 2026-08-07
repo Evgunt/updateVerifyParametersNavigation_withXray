@@ -1,0 +1,14 @@
+.idea/
+
+venv/
+.venv/
+env/
+ENV/
+
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+temp_config_*.json
