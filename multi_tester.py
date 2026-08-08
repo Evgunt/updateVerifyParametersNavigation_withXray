@@ -41,8 +41,14 @@ SOURCES = [
 XRAY_PATH = "./xray/xray.exe"  # Используется ваш скачанный файл
 LOCAL_PORT_START = 10800  # Каждый поток получит свой порт во избежание конфликтов
 OUTPUT_FILENAME = "fast_vless.txt"
-MAX_THREADS = 15  # Количество одновременно проверяемых прокси
+MAX_THREADS = 30  # Количество одновременно проверяемых прокси
 
+# ==================== НАСТРОЙКИ GIT ====================
+GIT_BRANCH = "main"
+COMMIT_MESSAGE = "Auto-update: 60 fast VLESS configs"
+
+# Скрипт автоматически определяет папку, в которой он лежит на компьютере
+REPO_PATH = os.path.dirname(os.path.abspath(__file__))
 
 def run_git_command(args):
     """Безопасный запуск команд Git с логированием ошибок"""
@@ -68,7 +74,7 @@ def push_to_git():
     """Процесс синхронизации с GitHub"""
     print("\n--- Запуск синхронизации с Git ---")
 
-    if not run_git_command(["git", "add", OUTPUT_FILE]):
+    if not run_git_command(["git", "add", OUTPUT_FILENAME]):
         return
 
     try:
