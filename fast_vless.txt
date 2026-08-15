@@ -1,3 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22222?security=none&encryption=none&headerType=none&type=tcp#🌐سرور
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22223?encryption=none&security=none&type=tcp#OurChannel
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sni=www.apple.com&sid=ae3ba555edc1ba0a#[🇮🇳]
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?spx=/1lb8glmazlt0zhc&sid=5caa2ef81132c306&sni=www.amd.com&fp=firefox&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&type=tcp&security=reality&encryption=none#[787ms
