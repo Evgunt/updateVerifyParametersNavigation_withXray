@@ -1,3 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://7f1f5848-da44-47df-8581-df83e88ee2b3@194.61.31.126:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=GAYlNViQ9mkjs0iTjNmijAIXOaK2h0P2opHCYOrCNy0&sni=www.apple.com&sid=ae3ba555edc1ba0a#[🇮🇳]
-vless://921db318-1694-4408-9cc7-c93df39f7f8e@au.monkora.org:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&sni=au.monkora.org#[508ms
