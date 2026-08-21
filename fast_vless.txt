@@ -1,4 +1,0 @@
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@140.235.168.6:443?security=reality&type=xhttp&path=%2F&sni=www.lenovo.com&fp=qq&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?encryption=none&security=none&type=tcp#🌐سرور
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@104.245.242.9:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Titulcia%20%7C%20%5BBL%5D
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.7:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
