@@ -1,5 +1,0 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.157.103.248:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
-vless://f11f95e9-94ae-419e-b579-806f103bbdbf@79.174.92.133:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#1786
-vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443?encryption=none&host=ed8d.wdz.de5.net&path=/&security=tls&sni=ed8d.wdz.de5.net&type=ws#EPODONIOS
-vless://7cea1618-9e63-4552-9942-68004edfa960@79.174.92.133:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#1169
-vless://22419260-5475-49d8-a29c-01905c54d1b8@89.19.223.136:443?security=none&encryption=none&headerType=none&type=tcp#🌐سرور
