@@ -1,3 +1,4 @@
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@170.168.97.8:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&fp=edge&pbk=jYD82Xg6TRu2lR0XINMWxKb8dNycDwF-H28ZrtiafUo#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.6:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Kropp%20%7C%20%5BBL%5D
-vless://7301b9f4-17fa-4f17-8a20-4cfdb2afd3cb@79.174.92.133:8443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#4288
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@140.235.168.6:443?security=reality&type=xhttp&path=%2F&sni=www.lenovo.com&fp=qq&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Tukwila%20%7C%20%5BBL%5D
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.228.38:22222?encryption=none&security=none&type=tcp#🌐سرور
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@104.245.242.9:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Titulcia%20%7C%20%5BBL%5D
+vless://69db54f1-a8a6-d3d5-3b21-48af845aed08@89.47.55.7:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=chrome&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
