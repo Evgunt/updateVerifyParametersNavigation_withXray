@@ -1,4 +1,0 @@
-vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#capoit%20%20VL-TCP-N/A%20%20XX%2091ms
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.149.33:62145?allowInsecure=1#🇳🇱[openproxylist.com]
-vless://7301b9f4-17fa-4f17-8a20-4cfdb2afd3cb@79.174.92.133:8443?type=raw&security=reality&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#1328
-vless://f11f95e9-94ae-419e-b579-806f103bbdbf@79.174.92.133:8443?type=raw&security=reality&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#0786
