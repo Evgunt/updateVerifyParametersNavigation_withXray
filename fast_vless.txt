@@ -1,7 +1,4 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.37.20:62145?&type=tcp&headerType=none&path=%2F#🇳🇱[openproxylist.com]
-vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#🇬🇧
-vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443/?type=ws&encryption=none&flow=&host=ed8d.wdz.de5.net&path=/&security=tls&sni=ed8d.wdz.de5.net#EPODONIOS
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22224?encryption=none&security=none&type=tcp#@VlessConfig
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.184.211.42:22222?encryption=none&security=none&type=tcp#(S101)🇩🇪t.me/PrivateVPNs
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?fp=edge&security=none&type=tcp#@V2ray_Collector
-vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ed8d.wdz.de5.net#EPODONIOS
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?encryption=none&security=none&type=tcp&headerType=none#capoit%20%20VL-TCP-N/A%20%20XX%2091ms
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.149.33:62145?allowInsecure=1#🇳🇱[openproxylist.com]
+vless://7301b9f4-17fa-4f17-8a20-4cfdb2afd3cb@79.174.92.133:8443?type=raw&security=reality&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#1328
+vless://f11f95e9-94ae-419e-b579-806f103bbdbf@79.174.92.133:8443?type=raw&security=reality&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#0786
