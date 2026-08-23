@@ -1,3 +1,5 @@
-vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443/?type=ws&encryption=none&flow=&host=ed8d.wdz.de5.net&path=/&security=tls&sni=ed8d.wdz.de5.net#EPODONIOS
-vless://815630f6-0c67-4d61-aa0f-d783b18ae661@79.174.92.133:8443?type=tcp&security=reality&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#4145
+vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443?encryption=none&fp=chrome&path=/fp=chrome&security=tls&sni=ed8d.wdz.de5.net&type=ws#EPODONIOS
+vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&encryption=none&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.apple.com&sid=823ec0b7b5084ffe#🇬🇧
+vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443?path=%2F&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_382%20t.me%2Frjsxrd
+vless://815630f6-0c67-4d61-aa0f-d783b18ae661@79.174.92.133:8443?type=tcp&security=reality&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&sni=max.ru#2341
 vless://a6cf4b28-ba72-4e8c-90f8-6a884107ab3c@universe.whit3.net:4443?mode=auto&path=%2F&security=reality&encryption=none&pbk=4p9HuPujWxxtdp0GB_cJN42sFnF-woybk26SXLb1qAo&fp=firefox&type=xhttp&sni=universe.whit3.net&sid=4eb17bfdb000bef0#🌐سرور
