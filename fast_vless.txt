@@ -1,2 +1,8 @@
-vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE&sni=www.apple.com&sid=29fe4205ddc971a8#[🇮🇳]
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
 vless://8e16742a-78d5-4327-9052-f86a9ce50f49@46.250.250.149:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=SIBS0hevQuPeJiBQUoN5MYq8Gs_ZWyBlkHK6miz__kM&sni=www.apple.com&sid=90decc62dab9873f#[🇯🇵]
+vless://380f152a-33b3-456e-b5db-970aa27c32e3@tr.wba-pn.ru:2053?type=ws&security=tls&sni=tr.wba-pn.ru&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%5B%2ACIDR%5D
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22224?encryption=none&security=none&type=tcp#@VlessConfig
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.48.250.31:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇩🇪]
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F%3F%40TOOTFFARANGI%3Fed%3D2048&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@Vip_Security
