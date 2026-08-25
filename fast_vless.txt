@@ -1,1 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.102.158.171:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
+vless://d11613a1-2e1f-eac4-a275-aabd986b7ad1@bla-bla-bla-de.anti-zapret.com:8443?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sni=bla-bla-bla-de.anti-zapret.com&sid=17faf32cb516c9cb#[🇩🇪]
+vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE&sni=www.apple.com&sid=29fe4205ddc971a8#[🇮🇳]
