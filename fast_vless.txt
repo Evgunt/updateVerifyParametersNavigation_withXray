@@ -1,2 +1,0 @@
-vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?path=/?ed=2048&security=none&encryption=none&type=ws#EPODONIOS
-vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@150.251.138.142:8443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
