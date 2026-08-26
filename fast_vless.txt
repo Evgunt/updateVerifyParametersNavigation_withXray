@@ -1,6 +1,1 @@
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.48.250.31:443?encryption=none&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&type=xhttp&host=www.google.com&path=%2F&mode=auto#@V2ray_Collector
-vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.188.158:8080?path=/?ed&security=none&encryption=none&type=ws#EPODONIOS
-vless://31107c01-eb9a-49f1-aeee-1529838ee043@78.159.245.59:8443?type=tcp&security=reality&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sni=media-newportal.x5.ru#3399
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.186:8080?path=/&security=none&encryption=none&type=ws&sni=40.160.68.186#EPODONIOS
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.233:8080?path=/&security=none&encryption=none&type=ws&sni=40.160.68.233#EPODONIOS
-vless://31107c01-eb9a-49f1-aeee-1529838ee043@78.159.245.59:8443?type=raw&security=reality&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sni=media-newportal.x5.ru#1431
+vless://7e29f586-1ec1-40c1-abc2-3e11547b712b@209.222.252.178:633?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Piscataway%20%7C%20%5BBL%5D
