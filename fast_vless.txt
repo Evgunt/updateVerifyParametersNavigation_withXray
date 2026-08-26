@@ -1,1 +1,2 @@
-vless://7e29f586-1ec1-40c1-abc2-3e11547b712b@209.222.252.178:633?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Piscataway%20%7C%20%5BBL%5D
+vless://11af1c47-865a-47c6-92ff-118013655d78@91.107.190.63:8080?path=/?ed=2048&security=none&encryption=none&type=ws#EPODONIOS
+vless://263bae3e-f51c-4946-9c1f-2585347a3dd1@150.251.138.142:8443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
