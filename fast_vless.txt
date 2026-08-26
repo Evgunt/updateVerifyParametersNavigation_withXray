@@ -1,7 +1,0 @@
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.186:8080?path=/&security=none&encryption=none&type=ws&sni=40.160.68.186#EPODONIOS
-vless://505826d0-10c7-4bb9-a405-e151ea515935@us01hk.lockdwn.com:443?type=ws&sni=us01hk.lockdwn.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Las%20Vegas%20%28Twin%20Lakes%29%20%7C%20%5BBL%5D
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.120.174:62145?&type=tcp&headerType=none&path=%2F#🇨🇴[openproxylist.com]
-vless://49c37551-2843-4cd0-87ff-b75f5938a6d9@5.57.32.153:80/?type=tcp&encryption=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%5BBL%5D
-vless://e4737ce4-c646-44cc-9067-390e13c2a5f6@itproxy4.lockdwn.com:443?type=ws#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%5BBL%5D
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04&sni=bgcpartners.com&sid=e6ac18b63f23#[🇯🇵]
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@194.48.250.31:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇩🇪]
