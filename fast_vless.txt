@@ -1,2 +1,1 @@
-vless://e107dc4a-af3d-45a2-8277-e4965c76b25b@secdn-101.ktuda-skp.net:443?encryption=none&security=tls&sni=secdn-101.ktuda-skp.net&fp=firefox#Бесплатный
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.167.18:62145?&type=tcp&headerType=none&path=%2F#🇳🇱[openproxylist.com]
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇩🇪]
