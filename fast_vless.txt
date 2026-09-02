@@ -1,5 +1,0 @@
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@95.85.228.30:443?path=%2F&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&host=www.google.com&fp=qq&type=xhttp&sni=www.google.com#%E6%8D%B7%E5%85%8B_090217024
-vless://49c86212-ae0b-430e-9abb-244e715b533f@paid.sshehi.ggff.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=paid.sshehi.ggff.net&path=%2F#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.184.231:22224?encryption=none&security=none&type=tcp#@VlessConfig
-vless://d384974a-87c2-430b-a10c-ae367bc7ced8@turkey2vfsdvrwevr32v23v423ccdsrbsdbrsdvsdc.soft421.ir:1152?security=reality&encryption=none&pbk=24qgQiNdIzdKYtFOQDFtB6kN9WKx0gviKirv8Bb4hhI&headerType=none&type=tcp&sni=yahoo.com&sid=86a68a48b7d45f43&fp=qq#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Ba%C5%9Fak%C5%9Fehir%20%7C%20%5BBL%5D
