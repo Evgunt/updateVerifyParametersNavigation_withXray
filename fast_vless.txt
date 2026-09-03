@@ -1,5 +1,6 @@
-vless://6cbc63c1-97de-4460-847c-7fd7bdda3fa6@212.43.158.62:545?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BBL%5D
-vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com#
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@cdg.quicksavesafe.com:443?path=%2F&security=reality&encryption=none&pbk=fkYk0Ow--0GYExpBFb2wZjooymT7uASOQLw9ESC3DF8&host=cdg.quicksavesafe.com&fp=firefox&type=xhttp&sni=cdg.quicksavesafe.com&sid=62b6d6e64d461d78#
-vless://4f8efa61-96db-1391-b134-9ce844e31228@sw.volnalink.uk:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.booking.com&fp=chrome&pbk=a3_DLO6p_ZfPf7I0JFTVlAI2pPAPtC-ji2diyPcHcQA&sid=b4&type=tcp&headerType=none#[13683][SE][0][VLESS][None][ext_raw.githubusercontent.com][2026-09-01][2026-09-01
+vless://fe73f296-e5c0-45a6-8064-f8e76a75e946@87.58.152.18:8443?security=reality&type=tcp&sni=amp-api-edge.apps.apple.com&fp=safari&sid=c0dc8d7fda62ee7f&pbk=v-y8lgU3a2wSMalMiBveBtwHLwqW4WWTOgUoMNNBKFQ&encryption=none#DE
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?encryption=none&type=xhttp&mode=auto&host=www.google.com&path=%2F&security=reality&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&sni=www.google.com#[🇩🇪]
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.236.122:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.238.49:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#
 vless://49c86212-ae0b-430e-9abb-244e715b533f@paid.sshehi.ggff.net:443?&security=tls&fp=chrome&type=ws&headerType=none&host=paid.sshehi.ggff.net&path=%2F#
+vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.241.182:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#
