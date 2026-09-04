@@ -1,12 +1,1 @@
-vless://3005a774-84ab-47de-a2dc-48f5e56d502b@2.26.130.118:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=GUdrwZxYWVvIFgC2fSJDs6U5Un6c7t1Yuvzl7yI1ohU&sid=2f6a8c3e90b2d574&sni=nora.mycdn-me.ru#EE
-vless://690a33df-2f3b-c260-b8d1-e64000000004@mute-violet-0186.farhan-poco-x-6.workers.dev:2096?path=%2Ffarhanoms&security=tls&encryption=none&insecure=0&host=mute-violet-0186.farhan-poco-x-6.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mute-violet-0186.farhan-poco-x-6.workers.dev#@Vip_Security
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@curly-surf-4401.75-08c.workers.dev:8880?type=ws&amp;path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&amp;fp=qq#
-vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@shy-mud-e936.15-bb9.workers.dev:8880?type=ws#
-vless://9e648bb6-25f7-4b16-9949-55ac0952d66b@lingering-grass-6728.131-a78.workers.dev:8880?security=none&type=ws#
-vless://8995976a-1c81-4b44-a414-d3bc71058a21@muddy-queen-cdda.181-cf9.workers.dev:8880?&security=none&type=ws&headerType=&host=muddy-queen-cdda.181-cf9.workers.dev&path=%2F#
-vless://8546bcef-8456-41a2-82bc-d2231b42b769@small-tree-9ec0.84-971.workers.dev:8880?type=ws&amp;path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&amp;fp=qq#
-vless://68662961-6c5f-48c1-b807-6398f3287dbc@polished-meadow-2ac5.228-76d.workers.dev:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&encryption=none&type=ws#
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443?encryption=none&fp=chrome&path=ws&security=tls&type=ws#CA
-vless://01e0b37a-95e4-4c38-bd89-fef1881273ff@68.221.221.22:2053?encryption=none&type=tcp#
-vless://11af1c47-865a-47c6-92ff-118013655d78@51.158.241.182:8080?&type=ws&headerType=none&path=%2F%3Fed%3D2048#
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.215:62145?security=none&type=raw#CO
+vless://f4ba862a-4d64-431a-9213-dd7aaafd476a@94.183.209.33:8443?type=tcp&security=reality&fp=firefox&pbk=S_13TsXuoNyvkx6uf7JHJeuPX3G-nmSRMzn_hgcF3mk&sid=bafa6f22a3&sni=timeline.www.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B1%20%5BVL%5D%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%237521%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
