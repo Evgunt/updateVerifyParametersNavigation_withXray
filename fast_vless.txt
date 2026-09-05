@@ -1,0 +1,2 @@
+vless://4cbefb4d-328c-411d-bf76-780df1082df8@31.76.89.110:8443?path=%2F&security=reality&encryption=none&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&host=wikihow.com&fp=firefox&type=xhttp&sni=wikihow.com#@Vip_Security
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@193.123.36.106:62145?security=none&type=tcp#NL
